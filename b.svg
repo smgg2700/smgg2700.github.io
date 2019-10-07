@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640" style="background-color:transparent;">
+
+                            <ellipse cx="120" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="120,20 170,80 70,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="100" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="100" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                            <ellipse cx="150" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="150,20 200,80 100,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="130" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="130" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                            <ellipse cx="180" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="180,20 230,80 130,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="160" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="160" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                            <ellipse cx="210" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="210,20 260,80 160,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="190" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="190" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                                  <!--Main head-->
+                            <ellipse cx="240" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="240,20 290,80 190,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="220" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="220" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+                                  <!--Main head-->
+
+                            <ellipse cx="270" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="270,20 320,80 220,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="250" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="250" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                            <ellipse cx="300" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="300,20 350,80 250,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="280" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="280" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                            <ellipse cx="330" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="330,20 380,80 280,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="310" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="310" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                            <ellipse cx="360" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="360,20 410,80 310,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="340" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="340" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                            <ellipse cx="390" cy="120" rx="45" ry="50" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="390,20 440,80 340,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+                            <circle cx="370" cy="105" r="8" stroke="598b94" stroke-width="1" fill="#ffffff" />
+                            <circle cx="370" cy="105" r="3" stroke="brown" stroke-width="3" fill="#080000" />
+
+                            <polygon points="210,200 130,260 180,320 200,300 160,260 230,220" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <ellipse cx="240" cy="272" rx="75" ry="100" style="fill:#ccb221;stroke:#598b94;stroke-width:5;" />
+                            <polygon points="250,200 320,260 250,320 230,300 280,260 230,220" style="fill:#e8d2a0;stroke:#598b94;stroke-width:5;" />
+                            <ellipse cx="210" cy="485" rx="27" ry="120" style="fill:#ccb221;stroke:#598b94;stroke-width:5;" />
+                            <ellipse cx="270" cy="485" rx="27" ry="120" style="fill:#ccb221;stroke:#598b94;stroke-width:5;" />
+
+                            Sorry, your browser does not support inline SVG.
+    
+</svg>

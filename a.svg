@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640" style="background-color:transparent;">
+    <polygon points="260,200 450,200 450,220 250,220" style="fill:#a3c0cc;stroke:#598b94;stroke-width:5;" />
+    <ellipse cx="240" cy="120" rx="45" ry="70" style="fill:#a3c0cc;stroke:#598b94;stroke-width:5;" />
+    <polygon points="200,20 220,40 240,20 260,40 280,20 280,80 200,80" style="fill:gold;stroke:#598b94;stroke-width:5;" />
+    <circle cx="260" cy="105" r="10" stroke="#598b94" stroke-width="1" fill="#ffffff" />
+    <circle cx="260" cy="105" r="2" stroke="brown" stroke-width="3" fill="#080000" />
+    <path d="M 280 150 q 20 0 5 -30" stroke="#598b94" stroke-width="5" fill="none" />
+    <path d="M 240 160 q 20 15 40 0 " stroke="#8a0b11" stroke-width="10" fill="none" /> <!--Lips-->
+    <ellipse cx="240" cy="310" rx="55" ry="120" style="fill:#a3c0cc;stroke:#598b94;stroke-width:5;" />
+    <polygon points="240,430 400,480 380,600 360,580 380,500 230,470" style="fill:#a3c0cc;stroke:#598b94;stroke-width:5;" />
+    <polygon points="240,430 130,550 0,600 0,580 130,520 200,430" style="fill:#a3c0cc;stroke:#598b94;stroke-width:5;" />
+    <polygon points="195,200 150,200 150,400 195,400" style="fill:#ad8f09;stroke:#598b94;stroke-width:2;" />
+    <path d="M 170 200 l 5 -40 " stroke="black" stroke-width="3" fill="none" />
+    <path d="M 160 200 l -5 -40 " stroke="black" stroke-width="3" fill="none" />
+    <path d="M 380 120 q 150 100 0 300  " stroke="black" stroke-width="10" fill="none" />
+    <polygon points="240,250 220,340 350,300 350,280 250,310 260,250" style="fill:#a3c0cc;stroke:#598b94;stroke-width:5;" />
+    <path d="M 380 120 l -60 200" stroke="black" stroke-width="2" fill="none" id="string1">
+      <animateTransform id="op1" attributeName="transform" attributeType="XML" type="rotate" from="0 380 120" to="-16 380 120" begin="1s;op1.end+5s" dur="0.1s" fill="freeze" />
+    </path>
+    <path d="M 320 320 l 60 100" stroke="black" stroke-width="2" fill="none" id="string">
+      <animateTransform id="op2" attributeName="transform" attributeType="XML" type="rotate" from="0 380 420" to="29 380 420" begin="1s;op2.end+5s" dur="0.1s" fill="freeze" />
+    </path>
+  </svg>

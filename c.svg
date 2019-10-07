@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 2000 2000" width="2000" height="2000" style="background-color:transparent;">
+  <path d="M 350 380 l 150 -20" stroke="black" stroke-width="10" fill="none" >
+    <animateMotion path="M 0 0 L 625 -150" dur="3s" fill="freeze" begin="1s;op1.end+5s" />
+  </path>
+  <polygon points="490,340 510,380 530,355" style="fill:black;stroke:black;stroke-width:5;" >
+    <animateMotion path="M 0 0 L 625 -150" dur="3s" fill="freeze" begin="1s;op1.end+5s"/>
+  </polygon>
+  Sorry, your browser does not support inline SVG.
+
+</svg>
